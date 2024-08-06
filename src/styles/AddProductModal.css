@@ -1,0 +1,10 @@
+.modal label {
+    display: block;
+    margin: 10px 0;
+}
+
+.modal input {
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+}
